@@ -37,7 +37,12 @@ This platform was designed and built by **[QllmSoft](https://qllmsoft.com)**, a 
 | 10+ years | 50+ projects | 6 industries | 4 continents |
 |:---:|:---:|:---:|:---:|
 
-Services: Web & Mobile Development · WordPress Development · Digital Marketing & SEO · AI Automation & Chatbots.
+**Services:**
+
+- 🌐 Web & Mobile Development
+- 📝 WordPress Development
+- 📣 Digital Marketing & SEO
+- 🤖 AI Automation & Chatbots
 
 ## 🔗 Links
 
